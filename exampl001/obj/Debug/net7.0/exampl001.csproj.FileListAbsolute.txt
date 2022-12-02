@@ -1,0 +1,15 @@
+/Users/ila/exampls/exampl001/bin/Debug/net7.0/exampl001
+/Users/ila/exampls/exampl001/bin/Debug/net7.0/exampl001.deps.json
+/Users/ila/exampls/exampl001/bin/Debug/net7.0/exampl001.runtimeconfig.json
+/Users/ila/exampls/exampl001/bin/Debug/net7.0/exampl001.dll
+/Users/ila/exampls/exampl001/bin/Debug/net7.0/exampl001.pdb
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/exampl001.csproj.AssemblyReference.cache
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/exampl001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/exampl001.AssemblyInfoInputs.cache
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/exampl001.AssemblyInfo.cs
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/exampl001.csproj.CoreCompileInputs.cache
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/exampl001.dll
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/refint/exampl001.dll
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/exampl001.pdb
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/exampl001.genruntimeconfig.cache
+/Users/ila/exampls/exampl001/obj/Debug/net7.0/ref/exampl001.dll
