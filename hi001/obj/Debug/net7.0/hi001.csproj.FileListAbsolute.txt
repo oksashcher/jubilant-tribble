@@ -1,0 +1,15 @@
+/Users/ila/Hi/hi001/obj/Debug/net7.0/hi001.csproj.AssemblyReference.cache
+/Users/ila/Hi/hi001/obj/Debug/net7.0/hi001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/Hi/hi001/obj/Debug/net7.0/hi001.AssemblyInfoInputs.cache
+/Users/ila/Hi/hi001/obj/Debug/net7.0/hi001.AssemblyInfo.cs
+/Users/ila/Hi/hi001/obj/Debug/net7.0/hi001.csproj.CoreCompileInputs.cache
+/Users/ila/Hi/hi001/bin/Debug/net7.0/hi001
+/Users/ila/Hi/hi001/bin/Debug/net7.0/hi001.deps.json
+/Users/ila/Hi/hi001/bin/Debug/net7.0/hi001.runtimeconfig.json
+/Users/ila/Hi/hi001/bin/Debug/net7.0/hi001.dll
+/Users/ila/Hi/hi001/bin/Debug/net7.0/hi001.pdb
+/Users/ila/Hi/hi001/obj/Debug/net7.0/hi001.dll
+/Users/ila/Hi/hi001/obj/Debug/net7.0/refint/hi001.dll
+/Users/ila/Hi/hi001/obj/Debug/net7.0/hi001.pdb
+/Users/ila/Hi/hi001/obj/Debug/net7.0/hi001.genruntimeconfig.cache
+/Users/ila/Hi/hi001/obj/Debug/net7.0/ref/hi001.dll
