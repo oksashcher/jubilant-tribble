@@ -1,0 +1,15 @@
+/Users/ila/seminarc#/seminar555/bin/Debug/net7.0/seminar555
+/Users/ila/seminarc#/seminar555/bin/Debug/net7.0/seminar555.deps.json
+/Users/ila/seminarc#/seminar555/bin/Debug/net7.0/seminar555.runtimeconfig.json
+/Users/ila/seminarc#/seminar555/bin/Debug/net7.0/seminar555.dll
+/Users/ila/seminarc#/seminar555/bin/Debug/net7.0/seminar555.pdb
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/seminar555.csproj.AssemblyReference.cache
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/seminar555.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/seminar555.AssemblyInfoInputs.cache
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/seminar555.AssemblyInfo.cs
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/seminar555.csproj.CoreCompileInputs.cache
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/seminar555.dll
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/refint/seminar555.dll
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/seminar555.pdb
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/seminar555.genruntimeconfig.cache
+/Users/ila/seminarc#/seminar555/obj/Debug/net7.0/ref/seminar555.dll
